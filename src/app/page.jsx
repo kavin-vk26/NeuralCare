@@ -35,9 +35,9 @@ function MainComponent() {
               className="text-[#2C3E50] hover:text-[#3498DB] active:text-[#2980B9] transition-colors"
             >
               Training
-            </a>
+            </a>            
             <a
-              href="/diagnosis"
+              href={process.env.NEXT_PUBLIC_DIAG_URL}
               className="text-[#2C3E50] hover:text-[#3498DB] active:text-[#2980B9] transition-colors"
             >
               Diagnosis
