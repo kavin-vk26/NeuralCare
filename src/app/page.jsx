@@ -43,13 +43,13 @@ function MainComponent() {
               Diagnosis
             </a>
             <a
-              href="/contact"
+              href={process.env.NEXT_PUBLIC_WEATHER_HEALTH_URL}
               className="text-[#2C3E50] hover:text-[#3498DB] active:text-[#2980B9] transition-colors"
             >
               Weather Health
             </a>
             <a
-              href="/contact"
+              href={process.env.NEXT_PUBLIC_CHAT_BOT_URL}
               className="text-[#2C3E50] hover:text-[#3498DB] active:text-[#2980B9] transition-colors"
             >
               ChatBot
