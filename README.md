@@ -83,7 +83,7 @@ This project was ideated, developed, and presented as part of the **ACM Hackatho
 
 Interested in collaborating or learning more?
 
-- 📧 Email: [Your Email]
+- 📧 Email: [hareeshwarnk@gmail.com]
 - 🌐 Website: Coming Soon
 - 🤝 Contributions: PRs and ideas welcome!
 
